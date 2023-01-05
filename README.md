@@ -1,4 +1,4 @@
-(walmart.png)
+![walmart.png](walmart.png)
 
 This project goal is to build a machine learning model able to estimate the weekly sales in Walmart stores, with the best precision possible on the predictions made. Such a model would help Walmart’s marketing services understand better how the sales are influenced by economic indicators, and might be used to plan future marketing campaigns.
 
